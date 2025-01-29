@@ -33,11 +33,7 @@
 % - sign: Radiomics signature of (Aerts et al., Nat. Commun., 2014)       %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-addpath('C:\Projects\Research\medical\radiomics\rad_val\STUDIES\HN_study\Functions');
-addpath('C:\Projects\Research\medical\radiomics\rad_val\STUDIES\HN_study\Utilities');
-addpath('C:\Projects\Research\medical\radiomics\rad_val\STUDIES\HN_study\NonTextureFeatures');
-addpath('C:\Projects\Research\medical\radiomics\rad_val\STUDIES\HN_study\MultivariableModeling');
-addpath('C:\Projects\Research\medical\radiomics\rad_val\STUDIES\HN_study\TextureToolbox');
+
 
 
 % **************************** INITIALIZATIONS ****************************
